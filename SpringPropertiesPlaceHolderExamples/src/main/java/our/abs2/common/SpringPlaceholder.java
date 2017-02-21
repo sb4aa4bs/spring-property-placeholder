@@ -4,7 +4,7 @@ package our.abs2.common;
  * Hello world!
  *
  */
-public class App 
+public class SpringPlaceholder 
 {
     public static void main( String[] args )
     {
